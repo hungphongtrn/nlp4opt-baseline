@@ -1,5 +1,11 @@
 # Subtask 2
 In the starter kit, you will find the files required to train a baseline model using BART.
+
+
+# Note
+This is the baseline version of the sub thask 2, however, the rouge benchmark seemed broken. I configured a little to remove rouge evaluation from 
+the test-utils.py
+
 # Environment Setup
 We have provided a Conda environment file `environment.yml`. To install:
 
